@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E5173CA0-B348-4C82-1393-A4E8250429A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RadioSystem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs" Line="31" Column="38" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/ForcedReset.cs" Line="14" Column="13" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="24" Column="9" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" Line="86" Column="23" />
+      <File FileName="Assets/Standard Assets/Utility/SmoothFollow.cs" Line="21" Column="17" />
+      <File FileName="Assets/Standard Assets/Utility/WaypointProgressTracker.cs" Line="14" Column="50" />
+      <File FileName="Assets/Scripts/Helicopter.cs" Line="17" Column="3" />
+      <File FileName="Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/FollowTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/FPSCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/TimedObjectDestructor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/TimedObjectActivator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/ActivateTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Eyes.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Daycycle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InnerVoice.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RadioSystem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Zombie_220runner PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
